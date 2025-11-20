@@ -7,5 +7,4 @@ for key in list(products.keys()):
 print(products)
 products["E"] = 200
 print(products)
-count_products = len(products)
-print(count_products)
+print(len(products))
